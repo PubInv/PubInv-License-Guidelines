@@ -36,7 +36,7 @@ Regulated Medical Devices | [CERN Open Hardware Licence Version 2 - Strongly Rec
 By making documentation CC0 (public domain), we hope to encourage maximum reuse and translation into other languages.
 
 If a document looks like a Scientific Article (for example is written in LaTeX), please assume it is one, and should be treated as no-derivatives work to maintain scientific integrity. If it looks and reads like a publishable peer-reviewed scientific paper or the draft beginning of a publishable peer-reviewed paper, we intend for it to be covered by [Creative Commons Attribution-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/). 
-We use the No Derivatives license for scientific works only in order to maintain scientific integrity (this is the normal behavior among scientists.)
+We use the No Derivatives license for scientific works only in order to maintain scientific integrity. This is the [normal anbd traditional behavior among scientists](https://medium.com/hackernoon/a-disconnect-between-the-free-software-movement-and-open-science-c5f0f0b408f2).
 
 If art was drawn by hand, the attribution to the artist should remain with the work [Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA)](https://creativecommons.org/licenses/by-sa/4.0/).
 
