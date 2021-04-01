@@ -1,4 +1,4 @@
-# Public Invention License Guidelines (v0.1)
+# Public Invention Free-Culture License Guidelines (v0.1)
 
 ## Note on Usage
 
