@@ -22,8 +22,7 @@ Documentation | CC0 (public domain)
 Scientific Articles | Creative Commons Attribution-NoDerivatives 4.0 International License
 Freehand Graphic Art | Creative Commons Attribution-ShareAlike 4.0 International License
 Diagramatic Graphic Art | Creative Commons Attribution-ShareAlike 4.0 International License
-Regulated Medical Devices | Sunlight Regulatory License (WIP)
-
+Regulated Medical Devices | CERN Open Hardware Licence Version 2 - Strongly Reciprocal or Sunlight Regulatory License (WIP)
 
 ## Notes and Rationale
 By making documentation CC0 (public domain), we hope to encourage maximum reuse and translation into other languages.
@@ -39,8 +38,9 @@ Public Invention is developing a new Agreement aimed specifically at Regulated M
 ## Overrides
 
 A specific repo may specify a different policy. Individual files or works may override this general policy. If a file does not have a license, please assume either the repo license or this general policy.
-A## ssignment of Copyright
-Public Invention volunteers are expected to assign the copyright of work done on Public Invention projects to Public Invention so that in a copyright dispute there is a single copyright holder (Public Invention.) Public Invention will continue to attribute the work to original author where feasible.
+
+## Assignment of Copyright
+Volunteers are expected to assign the copyright of work done on Public Invention projects to Public Invention so that in a copyright dispute there is a single copyright holder (Public Invention.) Public Invention will continue to attribute the work to original author where feasible.
 
 ## License for these Guidelines
 
