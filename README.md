@@ -1,8 +1,15 @@
 # Public Invention License Guidelines (v0.1)
 
+## Note on Usage
+
+These guidelines were written by [Public Invention](https://www.pubinv.org/).
+These guidelines are licensed under CC0, to encourage reuse by other free-libre projects.
+In the text below, you may wish to replace the pattern \[this organization\] and 
+\[This organization\] with the name of your organization.
+
 ## Purpose
 
-We seek to build a [free-culture](https://en.wikipedia.org/wiki/Free-culture_movement) public commons of inventions. 
+\[This organization\] seeks to build a [free-culture](https://en.wikipedia.org/wiki/Free-culture_movement) public commons of inventions. 
 Our repositories contain a wide variety of matter to usefully convey these inventions to the public. 
 This policy is our attempt to follow the principles of free-libre open source software applied to inventions in general, and hardware inventions in particular.
 
@@ -31,20 +38,19 @@ If a document is written in LaTeX, it is probably a Scientific Article, and shou
 
 If something was drawn by hand, the attribution to the artist should remain with the work (CC-BY-SA).
 
-The best practice for diagrams is to include a copyright notice and license in small print in the diagram. For high-quality works we retain attribution to promote Public Invention; for low-quality diagrams we may use CC0/public domain.
-
-Public Invention is developing a new Agreement aimed specifically at Regulated Medical Devices. It is an attempt to codify the spirit of free culture for medical devices.
+The best practice for diagrams is to include a copyright notice and license in small print in the diagram. For high-quality works we retain attribution 
+to promote \[this organization\]; for low-quality diagrams we may use CC0/public domain.
 
 ## Overrides
 
 A specific repo may specify a different policy. Individual files or works may override this general policy. If a file does not have a license, please assume either the repo license or this general policy.
 
 ## Assignment of Copyright
-Volunteers are expected to assign the copyright of work done on Public Invention projects to Public Invention so that in a copyright dispute there is a single copyright holder (Public Invention.) Public Invention will continue to attribute the work to original author where feasible.
+If \[this organization\] is a legal entity, volunteers are expected to assign the copyright of work done on \[this project\] to \[this organization\] so that in a copyright dispute there is a single copyright holder (\[this organization\]) to simplify things. \[This organization\] will continue to attribute the work to original author where feasible.
 
 ## License for these Guidelines
 
-These guidelines are licensed under CC0, to encourage you to adopt them for your own free-libre projects.
+These guidelines are licensed under CC0, to encourage reuse by other free-libre projects.
 
 
 -- Robert L. Read
