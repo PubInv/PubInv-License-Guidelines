@@ -3,7 +3,7 @@
 ## Note on Usage
 
 These guidelines were written by [Public Invention](https://www.pubinv.org/).
-These guidelines are licensed under CC0, to encourage reuse by other free-libre projects.
+These guidelines are licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/), to encourage reuse by other free-libre projects.
 In the text below, you may wish to replace the pattern \[this organization\] and 
 \[This organization\] with the name of your organization.
 
@@ -22,14 +22,14 @@ In cases where copyright law does not apply, we ask that you follow normal acade
 
 Material | License
 ------------ | -------------
-Software | Affero GPL v3
-Web-delivered Software | Affero GPL v3
-Hardware | CERN Open Hardware Licence Version 2 - Strongly Reciprocal
-Documentation | CC0 (public domain) 
-Scientific Articles | Creative Commons Attribution-NoDerivatives 4.0 International License
-Freehand Graphic Art | Creative Commons Attribution-ShareAlike 4.0 International License
-Diagramatic Graphic Art | Creative Commons Attribution-ShareAlike 4.0 International License
-Regulated Medical Devices | CERN Open Hardware Licence Version 2 - Strongly Reciprocal or Sunlight Regulatory License (WIP)
+Software | [GNU Affero GPL v3](https://www.gnu.org/licenses/agpl-3.0.en.html)
+Web-delivered Software | [GNU Affero GPL v3](https://www.gnu.org/licenses/agpl-3.0.en.html)
+Hardware | [CERN Open Hardware Licence Version 2 - Strongly Reciprocal](https://ohwr.org/cern_ohl_s_v2.txt)
+Documentation | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) (public domain) 
+Scientific Articles | C[reative Commons Attribution-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/)
+Freehand Graphic Art | [Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA)](https://creativecommons.org/licenses/by-sa/4.0/)
+Diagramatic Graphic Art | [Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA)](https://creativecommons.org/licenses/by-sa/4.0/)
+Regulated Medical Devices | [CERN Open Hardware Licence Version 2 - Strongly Reciprocal](https://ohwr.org/cern_ohl_s_v2.txt) or [Public Invention Sunlight Regulatory Agreement (WIP)](https://github.com/PubInv/RegulatorySunlight)
 
 ## Notes and Rationale
 By making documentation CC0 (public domain), we hope to encourage maximum reuse and translation into other languages.
@@ -50,6 +50,6 @@ If \[this organization\] is a legal entity, volunteers are expected to assign th
 
 ## License for these Guidelines
 
-These guidelines are licensed under CC0, to encourage reuse by other free-libre projects.
+These guidelines are licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/), to encourage reuse by other free-libre projects.
 
 
