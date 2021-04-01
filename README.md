@@ -33,7 +33,7 @@ Diagramatic Graphic Art | [Creative Commons Attribution-ShareAlike 4.0 Internati
 Regulated Medical Devices | [CERN Open Hardware Licence Version 2 - Strongly Reciprocal](https://ohwr.org/cern_ohl_s_v2.txt) or [Public Invention Sunlight Regulatory Agreement (WIP)](https://github.com/PubInv/RegulatorySunlight)
 
 ## Notes and Rationale
-By making documentation CC0 (public domain), we hope to encourage maximum reuse and translation into other languages.
+By making documentation [CC0 (public domain)](https://creativecommons.org/publicdomain/zero/1.0/), we hope to encourage maximum reuse and translation into other languages.
 
 If a document looks like a Scientific Article (for example is written in LaTeX), please assume it is one, and should be treated as no-derivatives work to maintain scientific integrity. If it looks and reads like a publishable peer-reviewed scientific paper or the draft beginning of a publishable peer-reviewed paper, we intend for it to be covered by [Creative Commons Attribution-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/). 
 We use the No Derivatives license for scientific works only in order to maintain scientific integrity. This is the [normal anbd traditional behavior among scientists](https://medium.com/hackernoon/a-disconnect-between-the-free-software-movement-and-open-science-c5f0f0b408f2).
@@ -41,7 +41,7 @@ We use the No Derivatives license for scientific works only in order to maintain
 If art was drawn by hand, the attribution to the artist should remain with the work [Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA)](https://creativecommons.org/licenses/by-sa/4.0/).
 
 The best practice for diagrams is to include a copyright notice and license in small print in the diagram. For high-quality works we retain attribution 
-to promote \[this organization\]; for low-effort diagrams we may use CC0/public domain.
+to promote \[this organization\]; for low-effort diagrams we may use [CC0 (public domain)](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ## Overrides
 
