@@ -53,5 +53,3 @@ If \[this organization\] is a legal entity, volunteers are expected to assign th
 These guidelines are licensed under CC0, to encourage reuse by other free-libre projects.
 
 
--- Robert L. Read
-
