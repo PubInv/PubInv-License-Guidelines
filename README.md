@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Public Invention seeks to build a [free-culture](https://en.wikipedia.org/wiki/Free-culture_movement) public commons of inventions. 
+We seek to build a [free-culture](https://en.wikipedia.org/wiki/Free-culture_movement) public commons of inventions. 
 Our repositories contain a wide variety of matter to usefully convey these inventions to the public. 
 This policy is our attempt to follow the principles of free-libre open source software applied to inventions in general, and hardware inventions in particular.
 
