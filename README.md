@@ -26,7 +26,7 @@ Software | [GNU Affero GPL v3](https://www.gnu.org/licenses/agpl-3.0.en.html)
 Web-delivered Software | [GNU Affero GPL v3](https://www.gnu.org/licenses/agpl-3.0.en.html)
 Hardware | [CERN Open Hardware Licence Version 2 - Strongly Reciprocal](https://ohwr.org/cern_ohl_s_v2.txt)
 Documentation | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) (public domain) 
-Scientific Articles | C[reative Commons Attribution-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/)
+Scientific Articles | [Creative Commons Attribution-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/)
 Freehand Graphic Art | [Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA)](https://creativecommons.org/licenses/by-sa/4.0/)
 Diagramatic Graphic Art | [Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA)](https://creativecommons.org/licenses/by-sa/4.0/)
 Regulated Medical Devices | [CERN Open Hardware Licence Version 2 - Strongly Reciprocal](https://ohwr.org/cern_ohl_s_v2.txt) or [Public Invention Sunlight Regulatory Agreement (WIP)](https://github.com/PubInv/RegulatorySunlight)
@@ -34,16 +34,19 @@ Regulated Medical Devices | [CERN Open Hardware Licence Version 2 - Strongly Rec
 ## Notes and Rationale
 By making documentation CC0 (public domain), we hope to encourage maximum reuse and translation into other languages.
 
-If a document is written in LaTeX, it is probably a Scientific Article, and should be treated as no-derivatives work to maintain scientific integrity. If it looks and reads like a publishable paper or the beginning of a publishable paper, we intend for it to be covered by CC-BY-SA-ND. We use the No Derivatives license for scientific works only in order to maintain scientific integrity (this is the normal behavior among scientists.)
+If a document looks like a Scientific Article (for example is written in LaTeX), please assume it is one, and should be treated as no-derivatives work to maintain scientific integrity. If it looks and reads like a publishable peer-reviewed scientific paper or the draft beginning of a publishable peer-reviewed paper, we intend for it to be covered by [Creative Commons Attribution-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/). 
+We use the No Derivatives license for scientific works only in order to maintain scientific integrity (this is the normal behavior among scientists.)
 
-If something was drawn by hand, the attribution to the artist should remain with the work (CC-BY-SA).
+If art was drawn by hand, the attribution to the artist should remain with the work [Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA)](https://creativecommons.org/licenses/by-sa/4.0/).
 
 The best practice for diagrams is to include a copyright notice and license in small print in the diagram. For high-quality works we retain attribution 
-to promote \[this organization\]; for low-quality diagrams we may use CC0/public domain.
+to promote \[this organization\]; for low-effort diagrams we may use CC0/public domain.
 
 ## Overrides
 
-A specific repo may specify a different policy. Individual files or works may override this general policy. If a file does not have a license, please assume either the repo license or this general policy.
+A specific repo may specify a different policy. Individual files or works may override this general policy. 
+If a file does not have a license, please assume either the repo license or this general policy. 
+A file which does not clearly have a license is likely an oversight on our part, and we invite you to bring it to our attention.
 
 ## Assignment of Copyright
 If \[this organization\] is a legal entity, volunteers are expected to assign the copyright of work done on \[this project\] to \[this organization\] so that in a copyright dispute there is a single copyright holder (\[this organization\]) to simplify things. \[This organization\] will continue to attribute the work to original author where feasible.
