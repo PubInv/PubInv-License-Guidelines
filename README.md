@@ -9,7 +9,8 @@ In the text below, you may wish to replace the pattern \[this organization\] and
 
 ## Purpose
 
-\[This organization\] seeks to build a [free-culture](https://en.wikipedia.org/wiki/Free-culture_movement) public commons of inventions. 
+\[This organization\] seeks to build a [free-culture](https://en.wikipedia.org/wiki/Free-culture_movement) public commons of works, including poosibly
+hardware devices and inventions. 
 Our repositories contain a wide variety of matter to usefully convey these inventions to the public. 
 This policy is our attempt to follow the principles of free-libre open source software applied to inventions in general, and hardware inventions in particular.
 
