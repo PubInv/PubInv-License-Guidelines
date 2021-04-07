@@ -1,4 +1,4 @@
-# Public Invention Free-Culture License Guidelines (v0.1)
+# Public Invention Free-Culture License Guidelines (v0.1) for the [Project Name] project
 
 ## Note on Usage
 
@@ -15,7 +15,9 @@ Our repositories contain a wide variety of matter to usefully convey these inven
 This policy is our attempt to follow the principles of free-libre open source software applied to inventions in general, and hardware inventions in particular.
 
 In spirit, we give you the right to copy, use, publish, distribute these materials. 
-If you make useful modifications and amendments to these materials, we ask you to contribute your improvements back to us and to the world under the same condition: that anyone who improves your work is also obligated to publish those improvements to all if they convey them to any. This principle is sometimes called “copyleft” and first expressed in the GNU General Public License applied to software.
+If you make useful modifications and amendments to these materials, we ask you to contribute your improvements back to us and 
+to the world under the same condition: that anyone who improves your work is also obligated to publish those improvements 
+to all if they convey them to any. This principle is sometimes called “copyleft” and first expressed in the GNU General Public License applied to software.
 
 In cases where copyright law does not apply, we ask that you follow normal academic ethics and etiquette by giving the authors academic credit by name for text, data compilations, theorems, etc. Do not plagiarize. 
 
@@ -35,7 +37,8 @@ Regulated Medical Devices | [CERN Open Hardware Licence Version 2 - Strongly Rec
 ## Notes and Rationale
 By making documentation [CC0 (public domain)](https://creativecommons.org/publicdomain/zero/1.0/), we hope to encourage maximum reuse and translation into other languages.
 
-If a document looks like a Scientific Article (for example is written in LaTeX), please assume it is one, and should be treated as no-derivatives work to maintain scientific integrity. If it looks and reads like a publishable peer-reviewed scientific paper or the draft beginning of a publishable peer-reviewed paper, we intend for it to be covered by [Creative Commons Attribution-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/). 
+If a document looks like a Scientific Article (for example is written in LaTeX), please assume it is one, and should be treated as no-derivatives work to maintain scientific integrity. If it looks and reads like a publishable peer-reviewed scientific paper or the draft beginning of a publishable peer-reviewed paper, 
+we intend for it to be covered by [Creative Commons Attribution-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/). 
 We use the No Derivatives license for scientific works only in order to maintain scientific integrity. This is the [normal anbd traditional behavior among scientists](https://medium.com/hackernoon/a-disconnect-between-the-free-software-movement-and-open-science-c5f0f0b408f2).
 
 If art was drawn by hand, the attribution to the artist should remain with the work [Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA)](https://creativecommons.org/licenses/by-sa/4.0/).
@@ -50,7 +53,9 @@ If a file does not have a license, please assume either the repo license or this
 A file which does not clearly have a license is likely an oversight on our part, and we invite you to bring it to our attention.
 
 ## Assignment of Copyright
-If \[this organization\] is a legal entity, volunteers are expected to assign the copyright of work done on \[this project\] to \[this organization\] so that in a copyright dispute there is a single copyright holder (\[this organization\]) to simplify things. \[This organization\] will continue to attribute the work to original author where feasible.
+[If/Since] \[this organization\] is a legal entity, volunteers are expected to assign the copyright of work done on \[this project\] to \[this organization\] 
+so that in a copyright dispute there is a single copyright holder (\[this organization\]) to simplify things. 
+\[This organization\] will continue to attribute the work to original author where feasible.
 
 ## License for these Guidelines
 
