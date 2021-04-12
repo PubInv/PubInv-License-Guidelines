@@ -19,7 +19,8 @@ If you make useful modifications and amendments to these materials, we ask you t
 to the world under the same condition: that anyone who improves your work is also obligated to publish those improvements 
 to all if they convey them to any. This principle is sometimes called “copyleft” and first expressed in the GNU General Public License applied to software.
 
-In cases where copyright law does not apply, we ask that you follow normal academic ethics and etiquette by giving the authors academic credit by name for text, data compilations, theorems, etc. Do not plagiarize. 
+In cases where copyright law does not apply, we ask that you follow normal academic ethics and etiquette by giving the authors academic credit 
+by name for text, data compilations, theorems, etc. Do not plagiarize. 
 
 ## Licenses for Different Kinds of Matter
 
