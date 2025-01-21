@@ -53,11 +53,6 @@ A specific repo may specify a different policy. Individual files or works may ov
 If a file does not have a license, please assume either the repo license or this general policy. 
 A file which does not clearly have a license is likely an oversight on our part, and we invite you to bring it to our attention.
 
-## Assignment of Copyright
-[If/Since] \[this organization\] is a legal entity, volunteers are expected to assign the copyright of work done on \[this project\] to \[this organization\] 
-so that in a copyright dispute there is a single copyright holder (\[this organization\]) to simplify things. 
-\[This organization\] will continue to attribute the work to original author where feasible.
-
 ## License for these Guidelines
 
 These guidelines are licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/), to encourage reuse by other free-libre projects.
